@@ -1,0 +1,15 @@
+streamlit
+pymongo
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+transformers
+torch
+torchvision
+torchaudio
+plotly
+accelerate
+huggingface_hub
+python-dotenv
